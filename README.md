@@ -13,7 +13,7 @@ Todos los recursos multimedia utilizados en esta página web cuentan con licenci
 | Galería Artista | Imagen | `assets/imagenes/artista.webp` | CC BY-SA 4.0 | [https://unsplash.com/es/fotos/artista-en-el-escenario-con-multitud-y-camaras-animando-1hr--ePBgbk](https://unsplash.com/es/fotos/artista-en-el-escenario-con-multitud-y-camaras-animando-1hr--ePBgbk) |
 | Galería Escenario | Imagen | `assets/imagenes/escenario.webp` | CC BY-SA 4.0 | [https://unsplash.com/es/fotos/numerosas-luces-coloridas-y-brillantes-iluminan-un-espacio-oscuro-y-abstracto-C3uasuZwpvY](https://unsplash.com/es/fotos/numerosas-luces-coloridas-y-brillantes-iluminan-un-espacio-oscuro-y-abstracto-C3uasuZwpvY) |
 | Animación Planeta | Vídeo | `assets/video/presentacion.mp4` | Licencia Pixabay / Pexels | [https://pixabay.com/es/videos/mundo-globo-internacional-global-1992/](https://pixabay.com/es/videos/mundo-globo-internacional-global-1992/) |
-| Audio Ambient Sci-Fi| Audio | `assets/audio/audio-ambiental.mp3`| Pixabay Content License | [https://pixabay.com/es/music/ambiente-drone-ambient-518685/](https://pixabay.com/es/music/ambiente-drone-ambient-518685/) |
+| Audio de ambiente| Audio | `assets/audio/audio-ambiental.mp3`| Pixabay Content License | [https://pixabay.com/es/music/ambiente-drone-ambient-518685/](https://pixabay.com/es/music/ambiente-drone-ambient-518685/) |
 
 ---
 
