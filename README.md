@@ -7,7 +7,7 @@ Todos los recursos multimedia utilizados en esta página web cuentan con licenci
 | Recurso | Tipo | Archivo / Ubicación | Licencia | Fuente Original |
 | :--- | :--- | :--- | :--- | :--- |
 | Logo Venus | Imagen | `assets/imagenes/venus.png` | Dominio Público (CC0) | [https://unsplash.com/es/fotos/pluton-sobre-fondo-negro--5V6VZxSQRo](https://unsplash.com/es/fotos/pluton-sobre-fondo-negro--5V6VZxSQRo)) |
-| Fondo Cósmico | Imagen | `assets/imagenes/fondo.webp` | Licencia Unsplash / Pixabay | [(https://unsplash.com/es/fotos/una-vista-de-una-gran-tormenta-B0p-oLFKtjA)]([https://pixabay.com/](https://unsplash.com/es/fotos/una-vista-de-una-gran-tormenta-B0p-oLFKtjA)) |
+| Fondo Cósmico | Imagen | `assets/imagenes/fondo.webp` | Licencia Unsplash / Pixabay | [https://unsplash.com/es/fotos/una-vista-de-una-gran-tormenta-B0p-oLFKtjA]([https://pixabay.com/](https://unsplash.com/es/fotos/una-vista-de-una-gran-tormenta-B0p-oLFKtjA)) |
 | Poster Vídeo | Imagen | `assets/imagenes/poster.webp` | Dominio Público (CC0) | Foto extraído del vídeo propio |
 | Galería Directo | Imagen | `assets/imagenes/concierto.webp` | CC BY-SA 4.0 | [(https://unsplash.com/es/fotos/publico-del-concierto-con-confeti-morado-3BcNKoySAq0)]([https://unsplash.com/](https://unsplash.com/es/fotos/publico-del-concierto-con-confeti-morado-3BcNKoySAq0)) |
 | Galería Artista | Imagen | `assets/imagenes/artista.webp` | CC BY-SA 4.0 | [(https://unsplash.com/es/fotos/artista-en-el-escenario-con-multitud-y-camaras-animando-1hr--ePBgbk)]([https://unsplash.com/](https://unsplash.com/es/fotos/artista-en-el-escenario-con-multitud-y-camaras-animando-1hr--ePBgbk)) |
