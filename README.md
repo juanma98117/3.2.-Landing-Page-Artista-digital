@@ -4,7 +4,7 @@
 
 Todos los recursos multimedia utilizados en esta página web cuentan con licencias libres para su uso digital:
 
-| Recurso | Tipo | Archivo / Ubicación | Licencia | Fuente Original ||
+| Recurso | Tipo | Archivo / Ubicación | Licencia | Fuente Original |
 | :--- | :--- | :--- | :--- | :--- |
 | Logo Venus | Imagen | `assets/imagenes/venus.png` | Dominio Público (CC0) | [https://unsplash.com/es/fotos/pluton-sobre-fondo-negro--5V6VZxSQRo](https://unsplash.com/es/fotos/pluton-sobre-fondo-negro--5V6VZxSQRo) |
 | Fondo Cósmico | Imagen | `assets/imagenes/fondo.webp` | Licencia Unsplash / Pixabay | [https://unsplash.com/es/fotos/una-vista-de-una-gran-tormenta-B0p-oLFKtjA](https://unsplash.com/es/fotos/una-vista-de-una-gran-tormenta-B0p-oLFKtjA) |
