@@ -9,10 +9,10 @@ Todos los recursos multimedia utilizados en esta página web cuentan con licenci
 | Logo Venus | Imagen | `assets/imagenes/venus.png` | Dominio Público (CC0) | [https://unsplash.com/es/fotos/pluton-sobre-fondo-negro--5V6VZxSQRo](https://unsplash.com/es/fotos/pluton-sobre-fondo-negro--5V6VZxSQRo) |
 | Fondo Cósmico | Imagen | `assets/imagenes/fondo.webp` | Licencia Unsplash / Pixabay | [https://unsplash.com/es/fotos/una-vista-de-una-gran-tormenta-B0p-oLFKtjA](https://unsplash.com/es/fotos/una-vista-de-una-gran-tormenta-B0p-oLFKtjA) |
 | Poster Vídeo | Imagen | `assets/imagenes/poster.webp` | Dominio Público (CC0) | Foto extraído del vídeo propio |
-| Galería Directo | Imagen | `assets/imagenes/concierto.webp` | CC BY-SA 4.0 | [https://unsplash.com/es/fotos/publico-del-concierto-con-confeti-morado-3BcNKoySAq0)](https://unsplash.com/es/fotos/publico-del-concierto-con-confeti-morado-3BcNKoySAq0) |
-| Galería Artista | Imagen | `assets/imagenes/artista.webp` | CC BY-SA 4.0 | [https://unsplash.com/es/fotos/artista-en-el-escenario-con-multitud-y-camaras-animando-1hr--ePBgbk](https://unsplash.com/es/fotos/artista-en-el-escenario-con-multitud-y-camaras-animando-1hr--ePBgbk) |
-| Galería Escenario | Imagen | `assets/imagenes/escenario.webp` | CC BY-SA 4.0 | [https://unsplash.com/es/fotos/numerosas-luces-coloridas-y-brillantes-iluminan-un-espacio-oscuro-y-abstracto-C3uasuZwpvY](https://unsplash.com/es/fotos/numerosas-luces-coloridas-y-brillantes-iluminan-un-espacio-oscuro-y-abstracto-C3uasuZwpvY) |
-| Animación Planeta | Vídeo | `assets/video/presentacion.mp4` | Licencia Pixabay / Pexels | [https://pixabay.com/es/videos/mundo-globo-internacional-global-1992/](https://pixabay.com/es/videos/mundo-globo-internacional-global-1992/) |
+| Galería Directo | Imagen | `assets/imagenes/astronauta.webp` | CC BY-SA 4.0 | [https://pixabay.com/photos/astronaut-planets-mars-earth-9056443/](https://pixabay.com/photos/astronaut-planets-mars-earth-9056443/) |
+| Galería Artista | Imagen | `assets/imagenes/dama` | CC BY-SA 4.0 | [https://pixabay.com/illustrations/ai-generated-woman-fantasy-planets-8964431/](https://pixabay.com/illustrations/ai-generated-woman-fantasy-planets-8964431/) |
+| Galería Escenario | Imagen | `assets/imagenes/planetas` | [https://pixabay.com/illustrations/ai-generated-space-planets-universe-8469846/](https://pixabay.com/illustrations/ai-generated-space-planets-universe-8469846/) |
+| Animación Planeta | Vídeo | `assets/video/presentacion.mp4` | Licencia Pixabay / Pexels |
 | Audio de ambiente| Audio | `assets/audio/audio-ambiental.mp3`| Pixabay Content License | [https://pixabay.com/es/music/ambiente-drone-ambient-518685/](https://pixabay.com/es/music/ambiente-drone-ambient-518685/) |
 
 ---
@@ -23,7 +23,7 @@ He elegido los siguientes formatos buscando la máxima calidad con el menor peso
 
 ### 1. Formatos de Imagen
 
-* **WebP:** Lo utilicé como formato principal para las imágenes de mapa de bits (fotografías del directo, artista, escenario y fondo). Ofrece compresión con y sin pérdida en un único formato, soporte de canal alfa y un ahorro de peso del **25-35%** respecto a JPEG y PNG equivalente. Es compatible con todos los navegadores modernos.
+* **WebP:** Lo utilicé como formato principal para las imágenes de mapa de bits (fotografías del directo, artista, escenario y fondo). Ofrece compresión con y sin pérdida en un único formato, soporte de canal alfa y un ahorro de peso del **25-35%** respecto a JPEG y PNG. Es compatible con todos los navegadores modernos.
   
 * **PNG:** Solo lo utilicé en el logotipo por emplear compresión sin pérdida y soportar canal alfa completo. Es la opción requerida para gráficos sobre fondos de color variable o con necesidad de nitidez.
   
@@ -46,7 +46,6 @@ Durante el proceso de diseño, tratamiento multimedia y desarrollo usé las sigu
 | Herramienta | Tipo de Uso / Proceso |
 | :--- | :--- |
 | **GIMP** | Edición gráfica, redimensionado de miniaturas (400x250) y optimización/conversión de imágenes a formato WebP y PNG. |
-| **Canva** | Efectos de la letra y maquetación de subtítulos del vídeo. |
-| **HandBrake** | Transcodificación de vídeo H.264, ajuste de resolución (720p) y compresión de tasa de bits (1500 kbps). |
+| **HandBrake** | Transcodificación de vídeo H.264, ajuste de resolución (720p) y compresión de tasa de bits (700 kbps). |
 | **Audacity** | Recorte a 15 segundos, efectos de *Fade-in/Fade-out* y exportación de audio ambiental en estéreo a 192 kbps. |
 
