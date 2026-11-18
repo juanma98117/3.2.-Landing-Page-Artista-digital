@@ -7,7 +7,18 @@ document.addEventListener("DOMContentLoaded", () => {
         listaMiniaturas.forEach(miniatura => {
             miniatura.addEventListener("click", () => {
                 const rutaAltaRes = miniatura.getAttribute("data-alta-resolucion");
-                imagenGrande.src = rutaAltaRes;
+
+                if (rutaAltaRes && imagenGrande.src !== rutaAltaRes) {
+                    imagenGrande.style.opacity = "0";
+                    imagenGrande.style.transform = "scale(0.98)";
+
+                    setTimeout(() => {
+                        imagenGrande.src = rutaAltaRes;
+
+                        imagenGrande.style.opacity = "1";
+                        imagenGrande.style.transform = "scale(1)";
+                    }, 200);
+                }
             });
         });
     }

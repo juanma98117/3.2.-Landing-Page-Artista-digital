@@ -9,6 +9,7 @@ body {
     color: #ffffff;
     overflow-x: hidden;
 }
+
 .encabezado {
     position: fixed;
     width: 100%;
@@ -121,12 +122,28 @@ body {
     color: #ffffff;
 }
 
-.imagen-principal-activa {
+/* Estilos para el visor principal y su contenedor */
+.contenedor-visor-principal {
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+.figura-visor {
+    background-color: #0f172a;
+    border-radius: 12px;
+    overflow: hidden;
+    border: 1px solid rgba(255, 255, 255, 0.08);
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5);
+}
+
+.imagen-visor {
     width: 100%;
     max-height: 500px;
     object-fit: cover;
     display: block;
-    transition: opacity 0.3s ease;
+    opacity: 1;
+    transform: scale(1);
+    transition: opacity 0.4s ease-in-out, transform 0.4s ease-in-out;
 }
 
 .galeria-contenedor {
@@ -155,7 +172,7 @@ body {
     object-fit: cover;
     cursor: pointer;
     display: block;
-    transition: transform 0.3s ease, filter 0.3s ease;
+    transition: transform 0.3s ease, filter 0.3s ease, box-shadow 0.3s ease;
 }
 
 .miniatura-galeria:hover,
@@ -269,7 +286,6 @@ body {
 }
 
 @media (max-width: 992px) {
-
     .navbar-nav .nav-link {
         padding: 0.75rem 1rem;
         font-size: 1.1rem;
