@@ -41,7 +41,6 @@ body {
     transition: transform 0.3s ease, filter 0.3s ease;
 }
 
-/* EFECTO HOVER Y FOCUS: Cambios de color en stroke y zoom */
 .enlace-logotipo:hover .nav-svg-logo ellipse,
 .enlace-logotipo:focus .nav-svg-logo ellipse {
     stroke: #38bdf8;
